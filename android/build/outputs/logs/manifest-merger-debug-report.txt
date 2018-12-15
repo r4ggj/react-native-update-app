@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:3:11-32
+		INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:1:1-6:12
+		INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:2:11-57
+	android:versionCode
+		INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:1:1-6:12
+		INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml:5:22-80
+uses-sdk
+INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/projects/rn_demo/node_modules/react-native-update-app/android/src/main/AndroidManifest.xml
