@@ -1,7 +1,7 @@
 # react-native-update-app
-
+原仓库：https://github.com/banli17/react-native-update-app
 全自动 app 硬更新组件，简单易用。
-
+yuan
 ## 例子
 ![example](./example/index.js)
 
